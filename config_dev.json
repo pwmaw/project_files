@@ -1,8 +1,8 @@
 {
   "app_update":{
-    "version-no": "1.0", 
-    "app-url": "http://goo.gl/f9d6LQ",
-    "force-update": "1", 
+    "version_no": "1.0", 
+    "app_url": "http://goo.gl/f9d6LQ",
+    "force_update": "1", 
   },
   "display_text":{
             "home_cta_join": "SIGN UP NOW",
@@ -12,6 +12,7 @@
             "privilege_cta_join": "SIGN UP NOW"
         },
   "sync_settings":{
-    "sync_interval": 3600
+    "sync_interval": 3600,
+    "sync_after": 18.00,
   }
 }
