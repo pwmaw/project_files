@@ -1,0 +1,16 @@
+{
+  "app_update":{
+    "version-no": "1.1", 
+    "app-url": "http://goo.gl/f9d6LQ"
+  },
+  "display_text":{
+            "home_cta_join": "SIGN UP NOW",
+            "event_cta_join": "SIGN UP NOW",
+            "album_cta_join": "SIGN UP NOW",
+            "why_sign_up_cta_join": "SIGN UP NOW",
+            "privilege_cta_join": "SIGN UP NOW"
+        },
+  "sync_settings":{
+    "sync_interval": 3600
+  }
+}
