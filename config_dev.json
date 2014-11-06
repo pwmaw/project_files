@@ -1,7 +1,8 @@
 {
   "app_update":{
     "version-no": "1.0", 
-    "app-url": "http://goo.gl/f9d6LQ"
+    "app-url": "http://goo.gl/f9d6LQ",
+    "force-update": "1", 
   },
   "display_text":{
             "home_cta_join": "SIGN UP NOW",
