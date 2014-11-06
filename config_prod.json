@@ -1,6 +1,6 @@
 {
   "app_update":{
-    "version_no": "1.0", 
+    "version_no": "1.1", 
     "app_url": "http://goo.gl/f9d6LQ",
     "force_update": 1,
     "update_days": [0,1,2,3,4,5,6],
