@@ -3,7 +3,7 @@
     "version_no": "1.2", 
     "app_url": "Xge1Ry4i+y5/g1WCFH104n+1MvHuKze9vmjnHRPCfiY=",
     "force_update": 0,
-    "check_frequency": 3600,
+    "check_frequency": 120,
     "update_days": [0,1,2,3,4,5,6],
     "update_check_start_time": 0,
     "update_check_end_time": 23
