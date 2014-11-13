@@ -1,8 +1,8 @@
 {
   "app_update":{
-    "version_no": "1.2", 
-    "app_url": "xRBy+ywMWRfDQ8/svejtrvJPrrEB8iSr05lGSSoDFkI=",
-    "force_update": 0,
+    "version_no": "1.1", 
+    "app_url": "avsxG1mQazeXflXx03s2Kw==",
+    "force_update": 1,
     "check_frequency": 300,
     "update_days": [0,1,2,3,4,5,6],
     "update_check_start_time": 0,
