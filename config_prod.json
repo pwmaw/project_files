@@ -16,7 +16,7 @@
             "privilege_cta_join": "SIGN UP NOW"
         },
   "sync_settings":{
-    "sync_interval": 3600,
+    "sync_interval": 120,
     "sync_days": [0,1,2,3,4,5,6],
     "sync_check_start_time": 18,
     "sync_check_end_time": 23
